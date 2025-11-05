@@ -1,0 +1,12 @@
+{
+  "name": "api-rest-node-typescript",
+  "version": "1.0.0",
+  "description": "Api backend com node e typescript - Cadastro de user e cidade com autenticação JWT",
+  "main": "index.js",
+  "author": "Jose Silva Lima",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
