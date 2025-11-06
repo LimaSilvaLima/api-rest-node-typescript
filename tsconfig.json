@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /* Opções básicas */
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+
+    /* A SOLUÇÃO */
+    "allowImportingTsExtensions": true,
+    "noEmit": false
+  },
+  "include": ["src/**/*"]
+}
